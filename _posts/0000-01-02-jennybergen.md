@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"How now brown cow" - Ron Burgandy
 Use the left arrow to go back!
